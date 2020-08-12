@@ -6,5 +6,10 @@ public class LoginPage {
 		
 		System.out.println("login method");
 	}
+	
+public void loginTest() {
+		
+		System.out.println("login method");
 
+}
 }
